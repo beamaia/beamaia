@@ -1,6 +1,6 @@
-### Hello, there! 😁 I'm Bea, an aspiring data scientist 📊
+### Hello, there from Brazil! 😁 I'm Bea, an aspiring data scientist 📊
 
-I work at [Vert Soluções em TI]([https://www.vert.com.br/), with data integration related tasks, from the ETL process to the creation of dashboards. I use mainly Python and SAS for the projects I'm part of. I'm also a part of the Bio-Inspired Lab at UFES, studying image classification with CNNs. I'm a big Python fangirl. 
+I work at [Vert Soluções em TI]([https://www.vert.com.br/), with data integration related tasks, from the ETL process to the creation of dashboards. I use mainly Python and SAS for the projects I'm part of. I'm also a part of the Bio-Inspired Lab at UFES, studying image classification with CNNs. A computer science undergraduate at the Federal University of Espírito Santo and a big Python fangirl. 
 
 I'm still trying to juggle school and work, but when I can, I like to develop data driven projects. Other than that, I like playing Cities Skyline and the Sims, we live in a simulation type of games. Find me in my room or hiking in nearby hills. 
 
