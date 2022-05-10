@@ -4,5 +4,5 @@ I work at [Vert Soluções em TI]([https://www.vert.com.br/), with data integrat
 
 I'm still trying to juggle school and work, but when I can, I like to develop data driven projects. Other than that, I like playing Civilization 6, Cities Skyline and the Sims. Thanks for stopping by 😊 Down low are some of my stats and some repositories that I like. 
 
-![Beamaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=beamaia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamaia&theme=tokyonight&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=beamaia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=330></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beamaia&theme=tokyonight&layout=compact&hide_border=true" width=275></img>
