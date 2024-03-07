@@ -24,6 +24,6 @@ I'm also interested in research! Check out an article that I published under Bio
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beamaia/" alt="LinkedIn"/></a>
   <a href="#" title="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-25d366?style=flat-square&labelColor=229ED9logo=telegram&logoColor=white&link=https://t.me/beamaia" alt="Telegram"/></a>
+  <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black&link=https://t.me/beamaia" alt="Telegram"/></a>
 </p>
 
