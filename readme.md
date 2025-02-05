@@ -2,7 +2,7 @@
 
 ### Hello there from Brazil! 😁 I'm Bea, Machine Learning Engineer with a focus on LLMs and image classification
 
-I'm currently working at [Weni](https://weni.ai/en/) as a Machine Learning Engineer, with a focus on LLMs and chatbots. I'm also a part of the Bio-Inspired Lab at UFES, studying image classification with CNNs and image generation with VAE, specifically skin and oral cancer related. I'm also a computer science undergraduate at the Federal University of Espírito Santo, class of 2024/1 🤞
+I'm a Machine Learning Engineer, with a focus on LLMs and chatbots. When I'm not working, I'm a part of the Bio-Inspired Lab at UFES, studying image classification with CNNs and image generation with VAE, specifically skin and oral cancer related. I'm also a computer science undergraduate at the Federal University of Espírito Santo, class of 2025/1 🤞
 
 I'm interested in many topics related to deep learning. Here are some topics that I'm mostly interested in:
 - Quantization of large models (specially LLMs) -> Deploying large models with faster reponse time
