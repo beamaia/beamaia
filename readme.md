@@ -18,8 +18,8 @@ I'm still trying to juggle school and work, while navigating life with fibromyal
 I'm also interested in research! Check out an article that I published under Bio-Inspired Lab: ["Transformers, convolutional neural networks, and few-shot learning for classification of histopathological images of oral cancer"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029202) 💻 Let's chat about deep learning!
 
 <p align="left">
-  <a href="contact@beamaia.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contact@beamaia.com" alt="Gmail"/></a>
+  <a href="mailto:contact@beamaia.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link='contact@beamaia.com'" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/beamaia/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beamaia/" alt="LinkedIn"/></a>
   <a href="https://t.me/beamaia" title="Telegram">
