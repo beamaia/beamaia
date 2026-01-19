@@ -31,7 +31,10 @@ I'm also interested in research! Check out an article that I published under Bio
 💻 Let's chat about deep learning!
 
 <p align="left">
-  <a href="mailto:contact@beamaia.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link='contact@beamaia.com'" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/beamaia/" title="LinkedIn">
+  <a href="mailto:contact@beamaia.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/beamaia/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
