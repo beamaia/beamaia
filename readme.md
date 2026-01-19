@@ -22,7 +22,7 @@ I'm also interested in research! Check out an article that I published under Bio
 
 ### 🌱 Personal & Soft Skills
 - **Bilingual & Multicultural:** I was raised in both **Brazil and the United States**, being able to speak fluent in both tongues.
-- **Advocacy:** Navigating life with fibromyalgia and chronic fatigue, I am a proponent of work-life-health balance and advocate to those around me about what's it like to live with an invisible disability. Afterall, while it's tough, being disable hasn't stopped me from going after my dreams. 
+- **Advocacy:** Navigating life as an autistic individual with fibromyalgia and chronic fatigue, I am a proponent of work-life-health balance and advocate to those around me about what's it like to live with an invisible disability. Afterall, while it's tough, being disable hasn't stopped me from going after my dreams. 
 - **Interests:** When I'm not coding, I'm watching Asian Dramas, walking near the beach, or hanging out with my forever kitten, Mei 🐈.
 
 <p align="left">
