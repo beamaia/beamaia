@@ -1,3 +1,5 @@
+<img src="https://github.com/beamaia/beamaia/blob/main/cat_header.png" width=100%></img>
+
 ### Hello there! I'm Bea — AI Engineer & Researcher 🇧🇷🇺🇸
 
 I am an AI Engineer currently contracted to Grupo Boticário (via Cadastra), where I architect Generative AI systems and LLM Orchestration layers. My profile is a mix of academic research and practical engineering. I stay current with the latest AI literature and peer-review papers in my free time to ensure the systems I build are based on grounded, reliable methods. I believe a theoretical base is essential for building sturdy applications, specially when dealing with open-source tools.
