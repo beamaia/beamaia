@@ -1,36 +1,46 @@
-<img src="https://github.com/beamaia/beamaia/blob/main/cat_header.png" width=100%></img>
+<img src="https://github.com/beamaia/beamaia/blob/main/cat_header.png" width="100%" alt="Mei the Cat Header"></img>
 
-### Hello there! I'm Bea — AI Engineer & Researcher 🇧🇷🇺🇸
+### Hello there! I'm Bea — AI & Computer Vision Engineer 🇧🇷🇺🇸
+Find me at **[beamaia.com](https://beamaia.com)** 🧠
 
-I am an AI Engineer currently contracted to Grupo Boticário (via Cadastra), where I architect Generative AI systems and LLM Orchestration layers. My profile is a mix of academic research and practical engineering. I stay current with the latest AI literature and peer-review papers in my free time to ensure the systems I build are based on grounded, reliable methods. I believe a theoretical base is essential for building sturdy applications, specially when dealing with open-source tools.
+I am a Machine Learning Engineer specializing in Computer Vision and Generative AI, with a background blending academic research and software engineering. I believe a strong theoretical foundation is essential for building reliable applications, especially when working with complex visual data and open-source tools.
 
 ---
 
-### 🛠️ Technical Focus
-- **Generative AI:** LLM Orchestration, RAG, and building autonomous **Agentic AI** (using Agno, CrewAI, LangChain).
-- **Computer Vision & NLP:** Deep experience with **Transformers, YOLO, and CNNs** in PyTorch for both text and image classification.
-- **MLOps & Fullstack:** Constructing robust **FastAPI** backends and managing cloud infrastructure on **AWS/GCP**.
-- **Academic Research:** Contributed to the **Bio-Inspired Lab (UFES)** with a focus on Few-Shot Learning and medical imaging (digital pathology).
+### 🚀 Current Focus
+- **Medical Image Analysis:** Working on advanced feature extraction techniques for complex histopathology images, and researching causal AI methods to improve cancer classification.
+- **Model Architecture:** Investigating reasoning models and testing different approaches for model optimization.
+- **Continuous Learning:** Wrapping up my Computer Science thesis (TCC II) at UFES, while actively reading the latest papers on LLMs, autonomous agents, and computer vision applied to healthcare.
+
+---
+
+### 🛠️ Technical Stack
+- **Computer Vision:** PyTorch, Transformers, YOLO, and CNNs for image classification, object detection, and digital pathology.
+- **Generative AI & NLP:** LLM Orchestration, RAG, and Agentic AI workflows (Agno, CrewAI, LangChain).
+- **MLOps & Backend:** Building FastAPI backends and managing AWS/GCP cloud infrastructure.
+- **Academic Research:** Deep Learning applied to complex medical datasets at the Bio-Inspired Lab (UFES).
 
 ---
 
 ### 🔬 Featured Research
-I'm also interested in research! Check out an article that I published under Bio-Inspired Lab (I hope to in the future to be able to publish more):
+I have a strong interest in applied research, particularly where Computer Vision intersects with healthcare. Check out my published work under the Bio-Inspired Lab:
 - 📄 ["Transformers, convolutional neural networks, and few-shot learning for classification of histopathological images of oral cancer"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029202).
 
 ---
 
-### 🌱 Personal & Soft Skills
-- **Bilingual & Multicultural:** I was raised in both **Brazil and the United States**, being able to speak fluent in both tongues.
-- **Advocacy:** Navigating life as an autistic individual with fibromyalgia and chronic fatigue, I am a proponent of work-life-health balance and advocate to those around me about what's it like to live with an invisible disability. Afterall, while it's tough, being disable hasn't stopped me from going after my dreams. 
-- **Interests:** When I'm not coding, I'm watching Asian Dramas, walking near the beach, or hanging out with my forever kitten, Mei 🐈.
+### 🌱 Personal Profile
+- **Bilingual:** I was raised in both **Brazil and the United States**, and am fluent in both languages.
+- **Advocacy:** Navigating life as an autistic individual with fibromyalgia and chronic fatigue, I am a strong proponent of work-health balance. I actively advocate for awareness around invisible disabilities, because while it can be tough, being disabled hasn't stopped me from pursuing my goals 😺. 
+- **Interests:** When I'm not coding, I'm watching Asian Dramas, walking near the beach, or hanging out with my eternal kitten, Mei 🐈.
+
+---
+
+### 💻 Let's chat about deep learning!
 
 <p align="left">
-  <img src="https://github-readme-stats.
-
-💻 Let's chat about deep learning!
-
-<p align="left">
+  <a href="https://beamaia.com">
+    <img src="https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="mailto:contact@beamaia.com">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
